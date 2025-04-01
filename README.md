@@ -45,8 +45,8 @@ y al entrar de primeras ya nos saldra para cambiar la franja horaria
 #### d) Canvia l'idioma del teu lloc. 
 ![Captura de pantalla de 2025-03-14 14-33-04](https://github.com/user-attachments/assets/aaac356c-969d-43ab-b0c0-044c88653434)
 Para cambiar el idioma en el apartado de idioma entramos a ajustes de idioma.
-
-
+![Captura de pantalla de 2025-03-20 13-48-03](https://github.com/user-attachments/assets/bb291ebc-1a40-4bb2-b834-a88a0c1a7402)
+![Captura de pantalla de 2025-03-20 13-49-17](https://github.com/user-attachments/assets/310cecf5-838f-4607-98be-4e7c0b051651)
 #### e) Canvia la política de contrasenyes de manera que els usuaris que es creiïn tinguin una contrasenya de com a mínim 4 caràcters incloent-hi, majúscules, minúscules i xifres. Això es pot fer anant a l'opció Administració del lloc > Seguretat > Normatives del lloc.
 
 ### 2. Crea els següents cursos: un curs anomenat A que estigui format per 3 temes i un altre anomenat B que estigui format per 5 temes. Tot això ho pots fer des de Administració del lloc > Gestiona cursos i categories o també des del quadre Navegació anant a Cursos > Afegeix curs
@@ -119,8 +119,8 @@ NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més a
 ![Captura de pantalla de 2025-03-20 13-54-17](https://github.com/user-attachments/assets/523c5b8c-a61b-4e70-983b-1a10358311b9)
 ![Captura de pantalla de 2025-03-20 13-53-09](https://github.com/user-attachments/assets/23486246-28a0-4817-84b6-f299ab711f13)
 ![Captura de pantalla de 2025-03-20 13-52-25](https://github.com/user-attachments/assets/6ab338fb-1826-40c8-92fe-9c09960affd2)
-![Captura de pantalla de 2025-03-20 13-49-17](https://github.com/user-attachments/assets/310cecf5-838f-4607-98be-4e7c0b051651)
-![Captura de pantalla de 2025-03-20 13-48-03](https://github.com/user-attachments/assets/bb291ebc-1a40-4bb2-b834-a88a0c1a7402)
+
+
 ![Captura de pantalla de 2025-03-14 14-33-04](https://github.com/user-attachments/assets/99478148-548c-4b82-b078-fdd2662741f4)
 ![Captura de pantalla de 2025-03-14 14-30-23](https://github.com/user-attachments/assets/75cdf7cf-94a7-4e42-bd8c-7a2e31bac15d)
 ![Captura de pantalla de 2025-03-14 14-27-54](https://github.com/user-attachments/assets/64a5aab1-e444-4f9e-889c-6ded324b977e)
