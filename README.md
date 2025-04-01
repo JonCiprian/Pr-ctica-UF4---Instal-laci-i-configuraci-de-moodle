@@ -50,20 +50,26 @@ Para cambiar el idioma en el apartado de idioma entramos a ajustes de idioma
 Una vez dentro para cambiar el idioma en el primer y segundo despegable
 
 #### e) Canvia la política de contrasenyes de manera que els usuaris que es creiïn tinguin una contrasenya de com a mínim 4 caràcters incloent-hi, majúscules, minúscules i xifres.
-![Captura de pantalla de 2025-03-20 13-54-17](https://github.com/user-attachments/assets/523c5b8c-a61b-4e70-983b-1a10358311b9)
-Entramos a politicas de seguridad del sitio
 ![Captura de pantalla de 2025-03-20 13-53-09](https://github.com/user-attachments/assets/23486246-28a0-4817-84b6-f299ab711f13)
+Entramos a politicas de seguridad del sitio
+![Captura de pantalla de 2025-03-20 13-54-17](https://github.com/user-attachments/assets/523c5b8c-a61b-4e70-983b-1a10358311b9)
 y bajando un poco se puede cambiar la politica de las contraseñas a tu gusto
 
+
 ### 2. Crea els següents cursos: un curs anomenat A que estigui format per 3 temes i un altre anomenat B que estigui format per 5 temes. 
-![Captura de pantalla de 2025-03-20 14-00-34](https://github.com/user-attachments/assets/70c7b5ce-cc49-41ad-9fa9-e052e89ec894)
-![Captura de pantalla de 2025-03-20 13-58-24](https://github.com/user-attachments/assets/8483c03e-c34c-4620-9715-9f26f50dbcfc)
-![Captura de pantalla de 2025-03-20 13-58-15](https://github.com/user-attachments/assets/fd552584-3939-4911-a641-a5989ebb4407)
 ![Captura de pantalla de 2025-03-20 13-55-14](https://github.com/user-attachments/assets/6a2bfec0-f7ad-46bf-be04-a5be36898cc2)
+Primero entramos a administrar cursos y categorias
+![Captura de pantalla de 2025-03-20 13-58-15](https://github.com/user-attachments/assets/fd552584-3939-4911-a641-a5989ebb4407)
+![Captura de pantalla de 2025-03-20 13-58-24](https://github.com/user-attachments/assets/8483c03e-c34c-4620-9715-9f26f50dbcfc)
+![Captura de pantalla de 2025-03-20 14-00-34](https://github.com/user-attachments/assets/70c7b5ce-cc49-41ad-9fa9-e052e89ec894)
+Y una vez dentro creamos los cursos a nuestro gusto con los temas que queramos.
+
+
 
 ### 3. Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre Navegació) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó Activar edició en un curs.
 
-NOTA: Aquestes possibilitats no les estudiarem a fons perquè són una tasca més pròpia del professor que no pas de l'administrador del Moodle, però sempre va bé tenir-ne alguna idea.
+
+
 
 ### 4. Creació d’usuaris i alumnes.
 
