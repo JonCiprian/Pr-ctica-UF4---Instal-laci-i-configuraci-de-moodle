@@ -44,12 +44,22 @@ y al entrar de primeras ya nos saldra para cambiar la franja horaria
 
 #### d) Canvia l'idioma del teu lloc. 
 ![Captura de pantalla de 2025-03-14 14-33-04](https://github.com/user-attachments/assets/aaac356c-969d-43ab-b0c0-044c88653434)
-Para cambiar el idioma en el apartado de idioma entramos a ajustes de idioma.
+Para cambiar el idioma en el apartado de idioma entramos a ajustes de idioma
 ![Captura de pantalla de 2025-03-20 13-48-03](https://github.com/user-attachments/assets/bb291ebc-1a40-4bb2-b834-a88a0c1a7402)
 ![Captura de pantalla de 2025-03-20 13-49-17](https://github.com/user-attachments/assets/310cecf5-838f-4607-98be-4e7c0b051651)
-#### e) Canvia la política de contrasenyes de manera que els usuaris que es creiïn tinguin una contrasenya de com a mínim 4 caràcters incloent-hi, majúscules, minúscules i xifres. Això es pot fer anant a l'opció Administració del lloc > Seguretat > Normatives del lloc.
+Una vez dentro para cambiar el idioma en el primer y segundo despegable
 
-### 2. Crea els següents cursos: un curs anomenat A que estigui format per 3 temes i un altre anomenat B que estigui format per 5 temes. Tot això ho pots fer des de Administració del lloc > Gestiona cursos i categories o també des del quadre Navegació anant a Cursos > Afegeix curs
+#### e) Canvia la política de contrasenyes de manera que els usuaris que es creiïn tinguin una contrasenya de com a mínim 4 caràcters incloent-hi, majúscules, minúscules i xifres.
+![Captura de pantalla de 2025-03-20 13-54-17](https://github.com/user-attachments/assets/523c5b8c-a61b-4e70-983b-1a10358311b9)
+Entramos a politicas de seguridad del sitio
+![Captura de pantalla de 2025-03-20 13-53-09](https://github.com/user-attachments/assets/23486246-28a0-4817-84b6-f299ab711f13)
+y bajando un poco se puede cambiar la politica de las contraseñas a tu gusto
+
+### 2. Crea els següents cursos: un curs anomenat A que estigui format per 3 temes i un altre anomenat B que estigui format per 5 temes. 
+![Captura de pantalla de 2025-03-20 14-00-34](https://github.com/user-attachments/assets/70c7b5ce-cc49-41ad-9fa9-e052e89ec894)
+![Captura de pantalla de 2025-03-20 13-58-24](https://github.com/user-attachments/assets/8483c03e-c34c-4620-9715-9f26f50dbcfc)
+![Captura de pantalla de 2025-03-20 13-58-15](https://github.com/user-attachments/assets/fd552584-3939-4911-a641-a5989ebb4407)
+![Captura de pantalla de 2025-03-20 13-55-14](https://github.com/user-attachments/assets/6a2bfec0-f7ad-46bf-be04-a5be36898cc2)
 
 ### 3. Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre Navegació) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó Activar edició en un curs.
 
@@ -112,12 +122,8 @@ NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més a
 ![Captura de pantalla de 2025-03-20 14-09-16](https://github.com/user-attachments/assets/ca033cb4-31b6-49aa-a4f1-5d40b80f7032)
 ![Captura de pantalla de 2025-03-20 14-08-07](https://github.com/user-attachments/assets/8b20be1d-fece-46cd-829d-3cdbfee382a7)
 ![Captura de pantalla de 2025-03-20 14-03-31](https://github.com/user-attachments/assets/449d1a7a-e758-4ff5-8fc0-134ba6a7ea45)
-![Captura de pantalla de 2025-03-20 14-00-34](https://github.com/user-attachments/assets/70c7b5ce-cc49-41ad-9fa9-e052e89ec894)
-![Captura de pantalla de 2025-03-20 13-58-24](https://github.com/user-attachments/assets/8483c03e-c34c-4620-9715-9f26f50dbcfc)
-![Captura de pantalla de 2025-03-20 13-58-15](https://github.com/user-attachments/assets/fd552584-3939-4911-a641-a5989ebb4407)
-![Captura de pantalla de 2025-03-20 13-55-14](https://github.com/user-attachments/assets/6a2bfec0-f7ad-46bf-be04-a5be36898cc2)
-![Captura de pantalla de 2025-03-20 13-54-17](https://github.com/user-attachments/assets/523c5b8c-a61b-4e70-983b-1a10358311b9)
-![Captura de pantalla de 2025-03-20 13-53-09](https://github.com/user-attachments/assets/23486246-28a0-4817-84b6-f299ab711f13)
+
+
 ![Captura de pantalla de 2025-03-20 13-52-25](https://github.com/user-attachments/assets/6ab338fb-1826-40c8-92fe-9c09960affd2)
 
 
