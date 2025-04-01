@@ -36,13 +36,15 @@ Para cambiar el nombre hay que ir primero de todo a administracion del sitio, y 
 ![Captura de pantalla de 2025-03-14 14-27-02](https://github.com/user-attachments/assets/bca77c4b-abeb-4fa1-aa18-b702d583fb5b)
 #### c) Comprova que la franja horària del teu lloc sigui la correcta.
 ![Captura de pantalla de 2025-03-14 14-27-44](https://github.com/user-attachments/assets/46287cb4-94ec-4241-aa34-b3af78cc32cd)
-Per fer aixo primer entrem a l'apartat d'ubicacio i fem clic en 
+Para hacer esto primero vamos al apartado de ubicacion y entramos a ajustes de ubicacion
 ![Captura de pantalla de 2025-03-14 14-30-23](https://github.com/user-attachments/assets/95cec2fa-7597-413d-9324-9d3a6cdbf2de)
+![Captura de pantalla de 2025-03-14 14-27-54](https://github.com/user-attachments/assets/b1f03378-36a6-4765-8f9e-20001788474b)
+y al entrar de primeras ya nos saldra para cambiar la franja horaria 
 
 
-
-#### d) Canvia l'idioma del teu lloc. Això es pot fer anant a l'opció Administració del lloc > Idioma > Paràmetres i tenint en compte tant el checkbox Detecció automàtica de l'idioma com el desplegable Idioma per defecte.
-
+#### d) Canvia l'idioma del teu lloc. 
+![Captura de pantalla de 2025-03-14 14-33-04](https://github.com/user-attachments/assets/aaac356c-969d-43ab-b0c0-044c88653434)
+Para cambiar el idioma en el apartado de idioma entramos a ajustes de idioma.
 NOTA: Per disposar d'un determinat idioma, primer cal instal.lar-lo des de Administració del lloc > Idioma > Paquets d'idioma
 
 #### e) Canvia la política de contrasenyes de manera que els usuaris que es creiïn tinguin una contrasenya de com a mínim 4 caràcters incloent-hi, majúscules, minúscules i xifres. Això es pot fer anant a l'opció Administració del lloc > Seguretat > Normatives del lloc.
@@ -83,9 +85,8 @@ NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més a
 
 ![Captura de pantalla de 2025-03-14 14-26-39](https://github.com/user-attachments/assets/a1126660-5971-470d-8697-729b26d295a2)
 
-![Captura de pantalla de 2025-03-14 14-27-54](https://github.com/user-attachments/assets/b1f03378-36a6-4765-8f9e-20001788474b)
 
-![Captura de pantalla de 2025-03-14 14-33-04](https://github.com/user-attachments/assets/aaac356c-969d-43ab-b0c0-044c88653434)
+
 ![Captura de pantalla de 2025-03-20 13-58-24](https://github.com/user-attachments/assets/60c6bd2d-e840-41bf-96df-2cf78cc40499)
 ![Captura de pantalla de 2025-03-20 14-00-34](https://github.com/user-
 ![Captura de pantalla de 2025-03-20 13-58-15](https://github.com/user-attachments/assets/301ac9ef-d3d2-4b00-b0a9-49adc6060342)
@@ -100,16 +101,16 @@ attachments/assets/aedfc3f1-a725-44b9-8ce5-fdaf215de944)
 ![Captura de pantalla de 2025-03-20 14-25-29](https://github.com/user-attachments/assets/a5975b21-12a2-4be8-a9e4-a2ce3d9457a9)
 ![Captura de pantalla de 2025-03-20 14-27-45](https://github.com/user-attachments/assets/c4a4eec7-0a53-4209-beaa-799d83bc9668)
 ![Captura de pantalla de 2025-03-20 14-32-54](https://github.com/user-attachments/assets/f9f0e525-c157-43ca-affc-5fd38c41e060)
-![Uploading Captura de pantalla de 2025![U![Captura de pantalla de 2025-03-20 13-49-17](https://github.com/user-attachments/assets/3ac05690-e3aa-429d-971d-799143a16476)
+![Captura de pantalla de 2025-03-20 13-49-17](https://github.com/user-attachments/assets/3ac05690-e3aa-429d-971d-799143a16476)
 ![Captura de pantalla de 2025-03-20 13-52-25](https://github.com/user-attachments/assets/c15e7b56-d758-410a-9337-5fef13f92c9d)
-![Captura de pantalla de 2025-03-21 14-30-29](https://github.com/user-attachments/assets/cc8a8744-521b-491c-ae48-65be503ba85d)ploading Captura de pantalla de 2025-03-20 13-53-09.png…]()-03-20 13-54-17.png…]()
+![Captura de pantalla de 2025-03-21 14-30-29](https://github.com/user-attachments/assets/cc8a8744-521b-491c-ae48-65be503ba85d)
 ![Captura de pantalla de 2025-03-20 14-33-08](https://github.com/user-attachments/assets/c8d4deae-aed4-4e16-ae91-24d16b13505c)
 ![Captura de pantalla de 2025-03-21 13-45-55](https://github.com/user-attachments/assets/a0eee0b0-20ba-4a64-9660-dec415ff592e)
 ![Captura de pantalla de 2025-03-21 13-46-53](https://github.com/user-attachments/assets/186c9783-93bf-4b24-9170-3effcc07785f)
 ![Captura de pantalla de 2025-03-21 13-47-26](https://github.com/user-attachments/assets/c4ab1a64-0350-4bd9-aac4-0dab1ac7845d)
-![Captura de pantalla de 2025-03-21 13-49-24](https://github.com/user-
+![Captura de pantalla de 2025-03-21 13-49-24](https://github.com/user-attachments/assets/522aa39e-a739-4994-bbec-fcfe4b0e5b41)
 ![Captura de pantalla de 2025-03-20 13-55-14](https://github.com/user-attachments/assets/0dec5d67-85e5-47a3-bfe8-91b794c56eba)
-attachments/assets/522aa39e-a739-4994-bbec-fcfe4b0e5b41)
+
 ![Captura de pantalla de 2025-03-21 13-57-32](https://github.com/user-attachments/assets/7ac089a6-f820-4b48-a6ba-43aa1a8fa700)
 ![Captura de pantalla de 2025-03-21 14-00-01](https://github.com/user-attachments/assets/252f7c1f-d3e6-4548-b9f9-26b447fcf05c)
 ![Captura de pantalla de 2025-03-21 14-08-48](https://github.com/user-attachments/assets/63f97b7e-68c4-44df-a7e4-a24d2efd3868)
