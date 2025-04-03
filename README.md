@@ -68,9 +68,10 @@ Y una vez dentro creamos los cursos a nuestro gusto con los temas que queramos.
 
 ### 3. Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre Navegació) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó Activar edició en un curs.
 ![Captura de pantalla de 2025-03-20 14-03-31](https://github.com/user-attachments/assets/449d1a7a-e758-4ff5-8fc0-134ba6a7ea45)
-![Captura de pantalla de 2025-03-20 14-09-16](https://github.com/user-attachments/assets/ca033cb4-31b6-49aa-a4f1-5d40b80f7032)
+Para crear el tema primero hay que activar el modo edicion dentro del curso una vez activo le damos al lapiz y ahi cambias el nombre.
 ![Captura de pantalla de 2025-03-20 14-08-07](https://github.com/user-attachments/assets/8b20be1d-fece-46cd-829d-3cdbfee382a7)
-
+![Captura de pantalla de 2025-03-20 14-09-16](https://github.com/user-attachments/assets/ca033cb4-31b6-49aa-a4f1-5d40b80f7032)
+Y para poner un pdf le damos al boton donde pone añadir una actividad o recurso y añadimos lo que queramos.
 
 
 ### 4. Creació d’usuaris i alumnes.
@@ -127,34 +128,3 @@ NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més a
 ![Captura de pantalla de 2025-03-20 14-25-29](https://github.com/user-attachments/assets/4e30295d-7aef-4384-aa71-7bd41dd9b22f)
 ![Captura de pantalla de 2025-03-20 14-15-34](https://github.com/user-attachments/assets/9f973203-af1d-433b-80b4-c38d5ee07875)
 ![Captura de pantalla de 2025-03-20 14-11-28](https://github.com/user-attachments/assets/4e345e9f-9d9c-422b-ab84-2a6888678512)
-
-
-
-![Captura de pantalla de 2025-03-20 13-52-25](https://github.com/user-attachments/assets/6ab338fb-1826-40c8-92fe-9c09960affd2)
-
-
-![Captura de pantalla de 2025-03-14 14-33-04](https://github.com/user-attachments/assets/99478148-548c-4b82-b078-fdd2662741f4)
-![Captura de pantalla de 2025-03-14 14-30-23](https://github.com/user-attachments/assets/75cdf7cf-94a7-4e42-bd8c-7a2e31bac15d)
-![Captura de pantalla de 2025-03-14 14-27-54](https://github.com/user-attachments/assets/64a5aab1-e444-4f9e-889c-6ded324b977e)
-![Captura de pantalla de 2025-03-14 14-27-44](https://github.com/user-attachments/assets/7a7fc9d9-bb47-478a-a428-44bf4ca34a15)
-![Captura de pantalla de 2025-03-14 14-27-02](https://github.com/user-attachments/assets/f07aaf55-71d7-40d0-ae77-173c5146c098)
-![Captura de pantalla de 2025-03-14 14-26-52](https://github.com/user-attachments/assets/0ba93c27-7d92-464c-ac8a-71ad2f017d92)
-![Captura de pantalla de 2025-03-14 14-26-48](https://github.com/user-attachments/assets/77af62d5-ea00-4d85-8836-1756da846844)
-![Captura de pantalla de 2025-03-14 14-26-39](https://github.com/user-attachments/assets/85e0187c-b495-47eb-8b08-f4fe52e28c49)
-![Captura de pantalla de 2025-03-14 14-26-32](https://github.com/user-attachments/assets/b382143a-7274-429d-9ca2-fbd09658d40c)
-![Captura de pantalla de 2025-03-13 10-57-26](https://github.com/user-attachments/assets/87e04b0f-8254-4fbd-acf2-3d17ea2e589f)
-![Captura de pantalla de 2025-03-13 10-57-19](https://github.com/user-attachments/assets/567c6d0d-c748-48c6-9590-4b17cc6bc0a0)
-
-
-![Captura de pantalla de 2025-03-14 14-26-39](https://github.com/user-attachments/assets/a1126660-5971-470d-8697-729b26d295a2)
-![Captura de pantalla de 2025-03-13 10-57-08](https://github.com/user-attachments/assets/012eb2ed-451b-4f33-9cc4-5f16e4bd50e2)
-![Captura de pantalla de 2025-03-13 10-56-18](https://github.com/user-attachments/assets/e405788e-3eb4-4ac6-9533-16a1533da405)
-![Captura de pantalla de 2025-03-13 10-54-50](https://github.com/user-attachments/assets/8f014eb4-4ab4-41b8-b8da-bd6ca78f67c0)
-![Captura de pantalla de 2025-03-13 10-54-29](https://github.com/user-attachments/assets/1fc56810-8531-49de-98f9-78ba7bd33d9c)
-![Captura de pantalla de 2025-03-13 10-51-31](https://github.com/user-attachments/assets/e07673f1-47c2-4808-9b30-70ac6673a156)
-![Captura de pantalla de 2025-03-13 10-49-32](https://github.com/user-attachments/assets/843333e7-fde0-40fa-9c83-a0b4a4fb8b45)
-![Captura de pantalla de 2025-03-13 10-48-39](https://github.com/user-attachments/assets/c0d6f061-d215-486b-9886-c57e471d89cf)
-![Captura de pantalla de 2025-03-13 10-44-41](https://github.com/user-attachments/assets/74860734-b75c-4445-a9ce-da3ee2605870)
-
-
-
