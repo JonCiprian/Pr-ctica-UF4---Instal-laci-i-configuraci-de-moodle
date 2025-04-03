@@ -112,13 +112,14 @@ Para añadir a los alumnos al curso, primero entraremos al curso y entraremos a 
 Y para elegir a un como profesor solamente hay que darle al lapiz del usuario que queramos como profesor y cambiarle el rol a profesor.
 
 #### c) Comprova que efectivament, el contingut del curs A (afegit per l'administrador del sistema -és a dir, tu- estigui disponible públicament i que per accedir al curs B s'hagi d'iniciar sessió amb un usuari registrat (alumne o professor)
-![Captura de pantalla de 2025-03-21 14-14-42](https://github.com/user-attachments/assets/91cd53df-f712-471e-bbb0-26cb274fd1fd)
-Para comprobarlo inicio sesion como un alumno.
 ![Captura de pantalla de 2025-03-21 14-15-25](https://github.com/user-attachments/assets/e67c3d4c-63e6-4496-b7d9-a570888d8a7e)
+Para comprobarlo inicio sesion como un alumno.
+![Captura de pantalla de 2025-03-21 14-14-42](https://github.com/user-attachments/assets/91cd53df-f712-471e-bbb0-26cb274fd1fd)
 Y efectivamente sale que el A esta publico y el B Hace falta estar registrado.
 
 ### 6. Canvia l'aparença estètica del teu lloc. Concretament, descarrega't i activa un tema diferent dels que venen per defecte i prova de canviar també la capçalera i el peu de pàgina del lloc. 
 ![Captura de pantalla de 2025-03-21 14-25-47](https://github.com/user-attachments/assets/f12a99f2-cd92-4595-b9c8-7d914e519d05)
+Para cambiar el tema es muy sencillo, simplemente hay que entrar a temas y una vez dentro de primeras ya nos saldran los temas y podras elegir el que mas te guste.
 
 ### 7. Assigna un professor i matricula alumnes al curs A.
 
