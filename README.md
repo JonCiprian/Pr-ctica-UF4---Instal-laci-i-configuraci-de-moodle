@@ -67,7 +67,9 @@ Y una vez dentro creamos los cursos a nuestro gusto con los temas que queramos.
 
 
 ### 3. Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre Navegació) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó Activar edició en un curs.
-
+![Captura de pantalla de 2025-03-20 14-03-31](https://github.com/user-attachments/assets/449d1a7a-e758-4ff5-8fc0-134ba6a7ea45)
+![Captura de pantalla de 2025-03-20 14-09-16](https://github.com/user-attachments/assets/ca033cb4-31b6-49aa-a4f1-5d40b80f7032)
+![Captura de pantalla de 2025-03-20 14-08-07](https://github.com/user-attachments/assets/8b20be1d-fece-46cd-829d-3cdbfee382a7)
 
 
 
@@ -125,9 +127,7 @@ NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més a
 ![Captura de pantalla de 2025-03-20 14-25-29](https://github.com/user-attachments/assets/4e30295d-7aef-4384-aa71-7bd41dd9b22f)
 ![Captura de pantalla de 2025-03-20 14-15-34](https://github.com/user-attachments/assets/9f973203-af1d-433b-80b4-c38d5ee07875)
 ![Captura de pantalla de 2025-03-20 14-11-28](https://github.com/user-attachments/assets/4e345e9f-9d9c-422b-ab84-2a6888678512)
-![Captura de pantalla de 2025-03-20 14-09-16](https://github.com/user-attachments/assets/ca033cb4-31b6-49aa-a4f1-5d40b80f7032)
-![Captura de pantalla de 2025-03-20 14-08-07](https://github.com/user-attachments/assets/8b20be1d-fece-46cd-829d-3cdbfee382a7)
-![Captura de pantalla de 2025-03-20 14-03-31](https://github.com/user-attachments/assets/449d1a7a-e758-4ff5-8fc0-134ba6a7ea45)
+
 
 
 ![Captura de pantalla de 2025-03-20 13-52-25](https://github.com/user-attachments/assets/6ab338fb-1826-40c8-92fe-9c09960affd2)
