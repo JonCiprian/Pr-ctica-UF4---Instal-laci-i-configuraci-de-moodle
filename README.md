@@ -76,7 +76,7 @@ Y para poner un pdf le damos al boton donde pone añadir una actividad o recurso
 
 ### 4. Creació d’usuaris i alumnes.
 
-#### a) Crea manualment un usuari anomenat Bob que ha de fer servir el mètode d'autenticació manual. Això es pot fer des de Administració del lloc > Usuaris > Comptes > Afegeix un usuari
+#### a) Crea manualment un usuari anomenat Bob que ha de fer servir el mètode d'autenticació manual.
 ![Captura de pantalla de 2025-03-20 14-11-28](https://github.com/user-attachments/assets/4e345e9f-9d9c-422b-ab84-2a6888678512)
 
 #### b) Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc. Vés a Administració del lloc > Usuaris > Comptes > Carrega usuaris i segueix els passos que et marca.
@@ -115,13 +115,17 @@ Y para elegir a un como profesor solamente hay que darle al lapiz del usuario qu
 ![Captura de pantalla de 2025-03-21 14-15-25](https://github.com/user-attachments/assets/e67c3d4c-63e6-4496-b7d9-a570888d8a7e)
 Para comprobarlo inicio sesion como un alumno.
 ![Captura de pantalla de 2025-03-21 14-14-42](https://github.com/user-attachments/assets/91cd53df-f712-471e-bbb0-26cb274fd1fd)
-Y efectivamente sale que el A esta publico y el B Hace falta estar registrado.
+Y efectivamente sale que el A esta publico y q ue para el B hace falta estar registrado.
 
 ### 6. Canvia l'aparença estètica del teu lloc. Concretament, descarrega't i activa un tema diferent dels que venen per defecte i prova de canviar també la capçalera i el peu de pàgina del lloc. 
 ![Captura de pantalla de 2025-03-21 14-25-47](https://github.com/user-attachments/assets/f12a99f2-cd92-4595-b9c8-7d914e519d05)
 Para cambiar el tema es muy sencillo, simplemente hay que entrar a temas y una vez dentro de primeras ya nos saldran los temas y podras elegir el que mas te guste.
 
 ### 7. Assigna un professor i matricula alumnes al curs A.
+![Captura de pantalla de 2025-03-21 14-30-29](https://github.com/user-attachments/assets/2d935dea-f3d8-4c47-bdcb-33f08f0645b5)
+Para añadir a los alumnos al curso, primero entraremos al curso y entraremos a usuarios matriculados, y ahi eligiremos a los usuarios que queramos.
+![Captura de pantalla de 2025-03-21 14-30-13](https://github.com/user-attachments/assets/10b701c4-2bae-470a-9f94-d77420015600)
+Y para elegir a un como profesor solamente hay que darle al lapiz del usuario que queramos como profesor y cambiarle el rol a profesor.
 
 ### 8. Amb el professor afegeix contingut al curs A. Afegeix diferents tipus d’activitats i recursos. Crea una tasca amb data d’entrega oberta que demani la càrrega d’un fitxer PDF.
 
@@ -134,9 +138,7 @@ Para cambiar el tema es muy sencillo, simplemente hay que entrar a temas y una v
 ![Captura de pantalla de 2025-04-01 10-43-03](https://github.com/user-attachments/assets/a4ab3d45-9d22-4c1d-bea2-e19dd0cc8518)
 ![Captura de pantalla de 2025-04-01 10-42-47](https://github.com/user-attachments/assets/5afe70fa-927e-436d-8d91-755a1b772d01)
 ![Captura de pantalla de 2025-04-01 10-40-23](https://github.com/user-attachments/assets/3929bf89-1a94-4267-8a77-6351d7000190)
-![Captura de pantalla de 2025-03-21 14-30-29](https://github.com/user-attachments/assets/2d935dea-f3d8-4c47-bdcb-33f08f0645b5)
-![Captura de pantalla de 2025-03-21 14-30-13](https://github.com/user-attachments/assets/10b701c4-2bae-470a-9f94-d77420015600)
-![Captura de pantalla de 2025-03-21 14-28-44](https://github.com/user-attachments/assets/413e3b47-ff80-468e-9f95-7bed048adf91)
+
 
 
 
