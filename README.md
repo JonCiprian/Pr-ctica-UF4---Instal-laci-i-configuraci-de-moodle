@@ -128,16 +128,22 @@ Para añadir a los alumnos al curso, primero entraremos al curso y entraremos a 
 Y para elegir a un como profesor solamente hay que darle al lapiz del usuario que queramos como profesor y cambiarle el rol a profesor.
 
 ### 8. Amb el professor afegeix contingut al curs A. Afegeix diferents tipus d’activitats i recursos. Crea una tasca amb data d’entrega oberta que demani la càrrega d’un fitxer PDF.
+![Captura de pantalla de 2025-04-01 10-40-23](https://github.com/user-attachments/assets/3929bf89-1a94-4267-8a77-6351d7000190)
+Entramos como antes a añadir una tasca y lo configuramos de esta manera.
+![Captura de pantalla de 2025-04-01 10-42-47](https://github.com/user-attachments/assets/5afe70fa-927e-436d-8d91-755a1b772d01)
 
 ### 9. Entra amb un alumne i comprova que pots lliurar la tasca.
-![Captura de pantalla de 2025-03-20 13-53-09](https://github.com/user-attachments/assets/107cea47-09fd-4c17-a74c-5ba61cfb3fb5)
-![Captura de pantalla de 2025-03-20 13-54-17](https://github.com/user-attachments/assets/444ecc44-e89c-4e1c-9e3f-1eaa8a6dfe25)
+![Captura de pantalla de 2025-04-01 10-43-03](https://github.com/user-attachments/assets/a4ab3d45-9d22-4c1d-bea2-e19dd0cc8518)
+
+### Continguts
 ![Captura de pantalla de 2025-04-01 10-55-15](https://github.com/user-attachments/assets/41ca59b1-02fb-4733-91aa-ceacb3eff5da)
 ![Captura de pantalla de 2025-04-01 10-54-47](https://github.com/user-attachments/assets/4c878212-3735-4bd1-8649-5125c396ead1)
 ![Captura de pantalla de 2025-04-01 10-53-24](https://github.com/user-attachments/assets/aebb0a69-712a-43a3-9265-4c0266e60cda)
-![Captura de pantalla de 2025-04-01 10-43-03](https://github.com/user-attachments/assets/a4ab3d45-9d22-4c1d-bea2-e19dd0cc8518)
-![Captura de pantalla de 2025-04-01 10-42-47](https://github.com/user-attachments/assets/5afe70fa-927e-436d-8d91-755a1b772d01)
-![Captura de pantalla de 2025-04-01 10-40-23](https://github.com/user-attachments/assets/3929bf89-1a94-4267-8a77-6351d7000190)
+
+
+
+
+
 
 
 
