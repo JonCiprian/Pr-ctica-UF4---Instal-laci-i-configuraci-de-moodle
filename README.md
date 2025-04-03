@@ -136,9 +136,9 @@ Entramos como antes a añadir una tasca y lo configuramos de esta manera.
 ![Captura de pantalla de 2025-04-01 10-43-03](https://github.com/user-attachments/assets/a4ab3d45-9d22-4c1d-bea2-e19dd0cc8518)
 
 ### Continguts
-![Captura de pantalla de 2025-04-01 10-55-15](https://github.com/user-attachments/assets/41ca59b1-02fb-4733-91aa-ceacb3eff5da)
-![Captura de pantalla de 2025-04-01 10-54-47](https://github.com/user-attachments/assets/4c878212-3735-4bd1-8649-5125c396ead1)
 ![Captura de pantalla de 2025-04-01 10-53-24](https://github.com/user-attachments/assets/aebb0a69-712a-43a3-9265-4c0266e60cda)
+![Captura de pantalla de 2025-04-01 10-54-47](https://github.com/user-attachments/assets/4c878212-3735-4bd1-8649-5125c396ead1)
+![Captura de pantalla de 2025-04-01 10-55-15](https://github.com/user-attachments/assets/41ca59b1-02fb-4733-91aa-ceacb3eff5da)
 
 
 
