@@ -99,13 +99,21 @@ Ya dentro tendremos que seleccionar los usuarios que queramos eliminar y en el d
 
 ### 5. Ara matricula aquests usuaris als diferents cursos.
 
-#### a) Fes que al curs A no hi hagi possibilitat d'inscripció (és a dir, que només es permeti l'accés de visitant de manera que el curs sigui totalment públic sense control d'usuaris -ni alumnes ni professors-). D'altra banda, fes que al curs B es necessiti registre manual d'usuaris (és a dir, que sigui l'administrador -tu- qui matriculi cada usuari al curs, ja sigui com a professor o com a alumne). Tot això ho pots fer des de Administració del curs > Ususaris > Mètodes d'inscripció. Si no surt algun mètode d'inscripció disponible, has d'activar-lo a: Administració de lloc > Connectors > Autenticació > Gestió de l'autenticació
+#### a) Fes que al curs A no hi hagi possibilitat d'inscripció (és a dir, que només es permeti l'accés de visitant de manera que el curs sigui totalment públic sense control d'usuaris -ni alumnes ni professors-). D'altra banda, fes que al curs B es necessiti registre manual d'usuaris (és a dir, que sigui l'administrador -tu- qui matriculi cada usuari al curs, ja sigui com a professor o com a alumne). 
+![Captura de pantalla de 2025-03-21 13-57-32](https://github.com/user-attachments/assets/e0d2a390-7837-4098-897c-990fdd3a8349)
+Para hacer este paso entraremos al curso y nos iremos a participantes y luego seleccionaremos metodo de matriculacion, y elegiriemos el modo que queramos.
+![Captura de pantalla de 2025-03-21 14-00-01](https://github.com/user-attachments/assets/d3700b01-7594-4574-832d-2dfccebc4f50)
+Lo mismo con el otro curso.
 
 #### b) Assigna com a professor del curs B l'usuari "Bob" i com a alumnes a tots els que fas afegir des de l'arxiu CSV Tot això ho pots fer anant a Administració del curs > Usuaris inscrits > Inscriure.
+![Captura de pantalla de 2025-03-21 14-08-48](https://github.com/user-attachments/assets/8095eaee-4b76-421c-b923-3bf2d09906ef)
+Para añadir a los alumnos al curso, primero entraremos al curso y entraremos a usuarios matriculados, y ahi eligiremos a los usuarios que queramos. 
+![Captura de pantalla de 2025-03-21 14-09-20](https://github.com/user-attachments/assets/1bafd3b7-a9b7-44c8-b88f-74436fe2c998)
+Y para elegir a un como profesor solamente hay que darle al lapiz del usuario que queramos como profesor y cambiarle el rol a profesor.
 
 #### c) Comprova que efectivament, el contingut del curs A (afegit per l'administrador del sistema -és a dir, tu- estigui disponible públicament i que per accedir al curs B s'hagi d'iniciar sessió amb un usuari registrat (alumne o professor)
 
-### 6. Canvia l'aparença estètica del teu lloc. Concretament, descarrega't i activa un tema diferent dels que venen per defecte i prova de canviar també la capçalera i el peu de pàgina del lloc. Això ho pots fer primer anant a Administració del lloc > Connectors > Instal·lar complement i després a Administració del lloc > Aparença > Temes > Selector de temes Sempre pots fer servir l'enllaç Canvi de rol del menú de la dreta per observar com es veuria el lloc sent alumne, professor, etc.
+### 6. Canvia l'aparença estètica del teu lloc. Concretament, descarrega't i activa un tema diferent dels que venen per defecte i prova de canviar també la capçalera i el peu de pàgina del lloc. 
 
 ### 7. Assigna un professor i matricula alumnes al curs A.
 
@@ -127,8 +135,5 @@ Ya dentro tendremos que seleccionar los usuarios que queramos eliminar y en el d
 ![Captura de pantalla de 2025-03-21 14-17-00](https://github.com/user-attachments/assets/7e3cc124-c2ba-4243-8128-a3bc8edaa237)
 ![Captura de pantalla de 2025-03-21 14-15-25](https://github.com/user-attachments/assets/e67c3d4c-63e6-4496-b7d9-a570888d8a7e)
 ![Captura de pantalla de 2025-03-21 14-14-42](https://github.com/user-attachments/assets/91cd53df-f712-471e-bbb0-26cb274fd1fd)
-![Captura de pantalla de 2025-03-21 14-09-20](https://github.com/user-attachments/assets/1bafd3b7-a9b7-44c8-b88f-74436fe2c998)
-![Captura de pantalla de 2025-03-21 14-08-48](https://github.com/user-attachments/assets/8095eaee-4b76-421c-b923-3bf2d09906ef)
-![Captura de pantalla de 2025-03-21 14-00-01](https://github.com/user-attachments/assets/d3700b01-7594-4574-832d-2dfccebc4f50)
-![Captura de pantalla de 2025-03-21 13-57-32](https://github.com/user-attachments/assets/e0d2a390-7837-4098-897c-990fdd3a8349)
+
 
