@@ -77,9 +77,14 @@ Y para poner un pdf le damos al boton donde pone añadir una actividad o recurso
 ### 4. Creació d’usuaris i alumnes.
 
 #### a) Crea manualment un usuari anomenat Bob que ha de fer servir el mètode d'autenticació manual. Això es pot fer des de Administració del lloc > Usuaris > Comptes > Afegeix un usuari
+![Captura de pantalla de 2025-03-20 14-11-28](https://github.com/user-attachments/assets/4e345e9f-9d9c-422b-ab84-2a6888678512)
 
 #### b) Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc. Vés a Administració del lloc > Usuaris > Comptes > Carrega usuaris i segueix els passos que et marca.
-
+![Captura de pantalla de 2025-03-20 14-15-34](https://github.com/user-attachments/assets/9f973203-af1d-433b-80b4-c38d5ee07875)
+![Captura de pantalla de 2025-03-20 14-27-45](https://github.com/user-attachments/assets/231c1f38-680a-4d36-a0cb-189c973c7d4c)
+![Captura de pantalla de 2025-03-20 14-32-54](https://github.com/user-attachments/assets/3501fd30-c428-4790-91c3-ca65c015e644)
+![Captura de pantalla de 2025-03-20 14-25-29](https://github.com/user-attachments/assets/4e30295d-7aef-4384-aa71-7bd41dd9b22f)
+![Captura de pantalla de 2025-03-20 14-33-08](https://github.com/user-attachments/assets/81b0759c-ad6c-4d8c-b08e-94c33ab3fe3b)
 NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més abaix a la secció Usuaris.
 
 #### c) Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció Administració del lloc > Usuaris > Accions amb usuaris en bloc
@@ -121,10 +126,3 @@ NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més a
 ![Captura de pantalla de 2025-03-21 13-49-24](https://github.com/user-attachments/assets/6ad5f76a-039b-4c57-ada0-d1f440f7c4fd)
 ![Captura de pantalla de 2025-03-21 13-47-26](https://github.com/user-attachments/assets/3af09c07-9809-4309-980a-630786c24293)
 ![Captura de pantalla de 2025-03-21 13-46-53](https://github.com/user-attachments/assets/1b50c6bb-d51c-4fa6-b684-a713efcac565)
-![Captura de pantalla de 2025-03-21 13-45-55](https://github.com/user-attachments/assets/46437e43-c4da-4b7f-b3a6-8f6907466dfb)
-![Captura de pantalla de 2025-03-20 14-33-08](https://github.com/user-attachments/assets/81b0759c-ad6c-4d8c-b08e-94c33ab3fe3b)
-![Captura de pantalla de 2025-03-20 14-32-54](https://github.com/user-attachments/assets/3501fd30-c428-4790-91c3-ca65c015e644)
-![Captura de pantalla de 2025-03-20 14-27-45](https://github.com/user-attachments/assets/231c1f38-680a-4d36-a0cb-189c973c7d4c)
-![Captura de pantalla de 2025-03-20 14-25-29](https://github.com/user-attachments/assets/4e30295d-7aef-4384-aa71-7bd41dd9b22f)
-![Captura de pantalla de 2025-03-20 14-15-34](https://github.com/user-attachments/assets/9f973203-af1d-433b-80b4-c38d5ee07875)
-![Captura de pantalla de 2025-03-20 14-11-28](https://github.com/user-attachments/assets/4e345e9f-9d9c-422b-ab84-2a6888678512)
