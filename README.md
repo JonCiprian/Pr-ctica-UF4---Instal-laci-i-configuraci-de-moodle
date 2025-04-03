@@ -122,9 +122,9 @@ Y efectivamente sale que el A esta publico y q ue para el B hace falta estar reg
 Para cambiar el tema es muy sencillo, simplemente hay que entrar a temas y una vez dentro de primeras ya nos saldran los temas y podras elegir el que mas te guste.
 
 ### 7. Assigna un professor i matricula alumnes al curs A.
-![Captura de pantalla de 2025-03-21 14-30-29](https://github.com/user-attachments/assets/2d935dea-f3d8-4c47-bdcb-33f08f0645b5)
-Para añadir a los alumnos al curso, primero entraremos al curso y entraremos a usuarios matriculados, y ahi eligiremos a los usuarios que queramos.
 ![Captura de pantalla de 2025-03-21 14-30-13](https://github.com/user-attachments/assets/10b701c4-2bae-470a-9f94-d77420015600)
+Para añadir a los alumnos al curso, primero entraremos al curso y entraremos a usuarios matriculados, y ahi eligiremos a los usuarios que queramos.
+![Captura de pantalla de 2025-03-21 14-30-29](https://github.com/user-attachments/assets/2d935dea-f3d8-4c47-bdcb-33f08f0645b5)
 Y para elegir a un como profesor solamente hay que darle al lapiz del usuario que queramos como profesor y cambiarle el rol a profesor.
 
 ### 8. Amb el professor afegeix contingut al curs A. Afegeix diferents tipus d’activitats i recursos. Crea una tasca amb data d’entrega oberta que demani la càrrega d’un fitxer PDF.
