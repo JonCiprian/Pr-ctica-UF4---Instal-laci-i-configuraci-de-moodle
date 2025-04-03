@@ -1,4 +1,4 @@
-# Pr-ctica-UF4---Instal-laci-i-configuraci-de-moodle
+# Practica-UF4--Instalalacio-i-configuracio-de-moodle
 
 ### 1. Inicia sessió com a administrador del teu Moodle i realitza les següents tasques prèvies d'administració.
 
@@ -82,10 +82,9 @@ Y para poner un pdf le damos al boton donde pone añadir una actividad o recurso
 #### b) Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc. Vés a Administració del lloc > Usuaris > Comptes > Carrega usuaris i segueix els passos que et marca.
 ![Captura de pantalla de 2025-03-20 14-15-34](https://github.com/user-attachments/assets/9f973203-af1d-433b-80b4-c38d5ee07875)
 ![Captura de pantalla de 2025-03-20 14-25-29](https://github.com/user-attachments/assets/4e30295d-7aef-4384-aa71-7bd41dd9b22f)
-![Captura de pantalla de 2025-03-20 14-32-54](https://github.com/user-attachments/assets/3501fd30-c428-4790-91c3-ca65c015e644)
 ![Captura de pantalla de 2025-03-20 14-27-45](https://github.com/user-attachments/assets/231c1f38-680a-4d36-a0cb-189c973c7d4c)
+![Captura de pantalla de 2025-03-20 14-32-54](https://github.com/user-attachments/assets/3501fd30-c428-4790-91c3-ca65c015e644)
 ![Captura de pantalla de 2025-03-20 14-33-08](https://github.com/user-attachments/assets/81b0759c-ad6c-4d8c-b08e-94c33ab3fe3b)
-NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més abaix a la secció Usuaris.
 
 #### c) Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció Administració del lloc > Usuaris > Accions amb usuaris en bloc
 
